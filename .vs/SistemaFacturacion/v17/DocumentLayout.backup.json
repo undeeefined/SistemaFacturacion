@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Archivos\\Backup\\Documentos\\Proyectos C#\\SistemaFacturacion\\",
+  "WorkspaceRootPath": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\archivos\\backup\\documentos\\proyectos c#\\sistemafacturacion\\sistemafacturacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\sistemafacturacion\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\archivos\\documentos\\utec\\2025\\ciclo 01\\programaci\u00F3n 1\\proyecto final\\sistemafacturacion\\sistemafacturacion\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\archivos\\documentos\\utec\\2025\\ciclo 01\\programaci\u00F3n 1\\proyecto final\\sistemafacturacion\\sistemafacturacion\\concierto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\concierto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\archivos\\documentos\\utec\\2025\\ciclo 01\\programaci\u00F3n 1\\proyecto final\\sistemafacturacion\\sistemafacturacion\\concierto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\concierto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\archivos\\documentos\\utec\\2025\\ciclo 01\\programaci\u00F3n 1\\proyecto final\\sistemafacturacion\\sistemafacturacion\\concierto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\concierto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|d:\\archivos\\documentos\\utec\\2025\\ciclo 01\\programaci\u00F3n 1\\proyecto final\\sistemafacturacion\\sistemafacturacion\\concierto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B8146C6-1493-43CF-AC61-DF09F36C7F9D}|SistemaFacturacion\\SistemaFacturacion.csproj|solutionrelative:sistemafacturacion\\concierto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Archivos\\Backup\\Documentos\\Proyectos C#\\SistemaFacturacion\\SistemaFacturacion\\Form1.cs",
-              "RelativeDocumentMoniker": "SistemaFacturacion\\Form1.cs",
-              "ToolTip": "D:\\Archivos\\Backup\\Documentos\\Proyectos C#\\SistemaFacturacion\\SistemaFacturacion\\Form1.cs [Design]",
-              "RelativeToolTip": "SistemaFacturacion\\Form1.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Concierto4.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto4.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Concierto4.cs",
+              "ToolTip": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto4.cs [Design]",
+              "RelativeToolTip": "SistemaFacturacion\\Concierto4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:32:37.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Concierto3.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto3.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Concierto3.cs",
+              "ToolTip": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto3.cs [Design]",
+              "RelativeToolTip": "SistemaFacturacion\\Concierto3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:32:18.196Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Concierto2.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto2.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Concierto2.cs",
+              "ToolTip": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto2.cs [Design]",
+              "RelativeToolTip": "SistemaFacturacion\\Concierto2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:31:38.651Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Home.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Home.cs",
+              "ToolTip": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Home.cs [Design]",
+              "RelativeToolTip": "SistemaFacturacion\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T02:56:23.407Z",
               "EditorCaption": " [Design]"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Concierto1.cs [Design]",
+              "DocumentMoniker": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto1.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Concierto1.cs",
+              "ToolTip": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Concierto1.cs [Design]",
+              "RelativeToolTip": "SistemaFacturacion\\Concierto1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T02:29:21.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Home.cs",
+              "RelativeDocumentMoniker": "SistemaFacturacion\\Home.cs",
+              "ToolTip": "D:\\Archivos\\Documentos\\UTEC\\2025\\Ciclo 01\\Programaci\u00F3n 1\\PROYECTO FINAL\\SistemaFacturacion\\SistemaFacturacion\\Home.cs",
+              "RelativeToolTip": "SistemaFacturacion\\Home.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:19:31.734Z",
+              "EditorCaption": ""
             }
           ]
         }

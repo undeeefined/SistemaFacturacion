@@ -46,16 +46,52 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Concierto1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Concierto1.Designer.cs">
+      <DependentUpon>Concierto1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concierto2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concierto2.Designer.cs">
+      <DependentUpon>Concierto2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concierto3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concierto3.Designer.cs">
+      <DependentUpon>Concierto3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Concierto4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Concierto4.Designer.cs">
+      <DependentUpon>Concierto4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Concierto1.resx">
+      <DependentUpon>Concierto1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concierto2.resx">
+      <DependentUpon>Concierto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concierto3.resx">
+      <DependentUpon>Concierto3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concierto4.resx">
+      <DependentUpon>Concierto4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +101,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +115,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic4.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

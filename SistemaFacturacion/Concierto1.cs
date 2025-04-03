@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaFacturacion
 {
-    public partial class Form1 : Form
+    public partial class Concierto1 : Form
     {
-        public Form1()
+        public Concierto1()
         {
             InitializeComponent();
         }
