@@ -16,5 +16,27 @@ namespace SistemaFacturacion
         {
             InitializeComponent();
         }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        //Lista localidades
+        private void cmbLocalidades_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        //Lista cantidad
+        private void cmbCant_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnContinuar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

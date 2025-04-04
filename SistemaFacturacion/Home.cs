@@ -55,19 +55,19 @@ namespace SistemaFacturacion
         //Concierto 2
         private void opcion2_Click(object sender, EventArgs e)
         {
-            AbrirFormularioSecundario(new Concierto1());
+            AbrirFormularioSecundario(new Concierto2());
         }
 
         //Concierto 3
         private void opcion3_Click(object sender, EventArgs e)
         {
-            AbrirFormularioSecundario(new Concierto1());
+            AbrirFormularioSecundario(new Concierto2());
         }
 
         //Concierto 4
         private void opcion4_Click(object sender, EventArgs e)
         {
-            AbrirFormularioSecundario(new Concierto1());
+            AbrirFormularioSecundario(new Concierto2());
         }
     }
 }
